@@ -1,0 +1,75 @@
+* {
+    padding:0;
+    margin: 0;
+}
+.Cover {
+    text-align: center;
+    color:white;
+    margin: 0 auto;
+    padding: 10px 0px;
+    background-image: url(HeadBackground.ashx);
+    background-repeat: no-repeat;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 10px;
+    background-color: #003459;
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+}
+nav {
+    background-color: #003459;
+}
+footer {
+    background-color: #003459;
+    color: white;
+    text-align: center;
+    font-family: arial;
+}
+.textc {
+    background-color: rgb(172, 227, 248);
+    padding: 50px;
+}
+.h_heading {
+    font-size: 200%;
+    font-family: arial;
+    margin: 20px;
+
+}
+.h_p {
+    font-size: 150%;
+    font-family: arial;
+    margin: 20px;
+}
+tfoot {
+    background-color: #003459;
+    color:white;
+}
+.Join {
+    text-align: center;
+    font-size: 300%;
+}
+input {
+    padding: 10px 20px;
+    margin: 10px;
+}
+select {
+    padding: 10px 20px;
+    margin: 5px;
+}
+.cancel {
+    border: #003459 solid 2px;
+    padding: 5px 10px;
+    margin: 5px;
+    color:#003459;
+    border-radius: 10px;
+}
+.submit {
+    background-color: #003459;
+    padding: 5px 10px;
+    margin: 5px;
+    color:white;
+    border-radius: 10px;
+}
